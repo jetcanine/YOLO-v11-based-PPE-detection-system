@@ -10,12 +10,6 @@ This repository contains the implementation of **YOLOv11** fine-tuned for detect
 
 The model has been **hyperparameter tuned** to achieve **high precision and recall**, making it ideal for real-time detection of safety compliance.
 
-## 👥 Contributors
-| Name | Role |
-|----------------------------|-----------|
-| Ashlesh Patil (6351941) | Developer |
-| Wasim Isak Sayyad (6351648) | Developer |
-
 
 ## 📂 Dataset
 The dataset is sourced from [Roboflow](https://universe.roboflow.com/roboflow-100/construction-safety-gsnvb/dataset/2) and consists of:
